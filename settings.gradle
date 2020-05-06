@@ -1,0 +1,2 @@
+include ':app', ':sumsample'
+rootProject.name='LibrarySample'
